@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/andy/tensorflow/tensorflow_pkg/TF_1.14/bin/python3",
+    "editor.fontFamily": "Fira Code",
+    "python.linting.enabled": false
+}
